@@ -1,18 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Joe Yang 👋
 
-<!--
-**EchoOuO/EchoOuO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Freelance Front-end Developer with a Passion for Coding and Design
 
-Here are some ideas to get you started:
+I am currently focused on learning and building innovative web applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap
+- **Backend**: PHP, Python
+- **Databases**: MySQL
+
+### 🌟 Featured Projects
+- [**Personal Portfolio Website (React.js) **]([https://github.com/EchoOuO/Personal-Portfolio-Website](https://github.com/EchoOuO/joe-react-portfolio))
+- [**Personal Portfolio Website (JavaScript / jQuery) **](https://github.com/EchoOuO/Personal-Portfolio-Website)
+- [**Yoga Studio Website**](https://github.com/EchoOuO/yoga-studio-project): A community platform for yoga enthusiasts.
+
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/tzuhungyang/)
+- [GitHub](https://github.com/EchoOuO)
+
+Feel free to check out my repositories and get in touch!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoOuO)](https://github.com/anuraghazra/github-readme-stats)
