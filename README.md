@@ -10,7 +10,7 @@ I am currently focused on learning and building innovative web applications.
 - **Databases**: MySQL
 
 ### 🌟 Featured Projects
-- [**Personal Portfolio Website (React.js) **]([https://github.com/EchoOuO/Personal-Portfolio-Website](https://github.com/EchoOuO/joe-react-portfolio))
+- [**Personal Portfolio Website (React.js) **](https://github.com/EchoOuO/Personal-Portfolio-Website](https://github.com/EchoOuO/joe-react-portfolio))
 - [**Personal Portfolio Website (JavaScript / jQuery) **](https://github.com/EchoOuO/Personal-Portfolio-Website)
 - [**Yoga Studio Website**](https://github.com/EchoOuO/yoga-studio-project): A community platform for yoga enthusiasts.
 
