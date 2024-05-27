@@ -20,4 +20,4 @@ I am currently focused on learning and building innovative web applications.
 
 Feel free to check out my repositories and get in touch!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoOuO)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoOuO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
