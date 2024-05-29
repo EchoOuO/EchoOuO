@@ -12,7 +12,7 @@ I am currently focused on learning and building innovative web applications.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoOuO&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌟 Featured Projects
-- [** Portfolio Website (React.js) **](https://github.com/EchoOuO/joe-react-portfolio): Showcasing my skills, projects, and more information about me :)
+- [** Portfolio Website (React) **](https://github.com/EchoOuO/joe-react-portfolio): Showcasing my skills, projects, and more information about me :)
 - [** Portfolio Website (JavaScript / jQuery) **](https://github.com/EchoOuO/Personal-Portfolio-Website)
 
 ### 📫 How to Reach Me
