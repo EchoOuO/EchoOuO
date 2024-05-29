@@ -5,7 +5,7 @@
 I am currently focused on learning and building innovative web applications. 
 
 ### 🛠️ Skills
-- **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
 - **Backend**: PHP, Python
 - **Databases**: MySQL
 
