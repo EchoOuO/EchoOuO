@@ -17,9 +17,9 @@ I am currently focused on learning and building innovative web applications.
 - [** Portfolio Website (JavaScript / jQuery) **](https://github.com/EchoOuO/Personal-Portfolio-Website)
 
 ### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/tzuhungyang/)
-- [Email](thyang.joe@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tzuhungyang/)\
 - [GitHub](https://github.com/EchoOuO)
+- Email: thyang.joe@gmail.com
 
 Feel free to check out my repositories and get in touch!
 
