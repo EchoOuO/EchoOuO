@@ -18,6 +18,7 @@ I am currently focused on learning and building innovative web applications.
 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/tzuhungyang/)
+- [Email](thyang.joe@gmail.com)
 - [GitHub](https://github.com/EchoOuO)
 
 Feel free to check out my repositories and get in touch!
