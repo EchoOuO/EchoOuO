@@ -12,7 +12,7 @@ I am currently focused on learning and building innovative web applications.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EchoOuO&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌟 Featured Projects
-- [** AI Tech Tutor Application (Next.js, Flask, TypeScript) **]([https://github.com/EchoOuO/joe-react-portfolio](https://github.com/AI-TECH-LLM-TEAM/ai-tech-tutor)): Implenmenting OpenAI API to web application to help job seekers prepare interview quesitons for a developer position. (backend part: https://github.com/AI-TECH-LLM-TEAM/backend-ai-tech-tutor)
+- [** AI Tech Tutor Application (Next.js, Flask, TypeScript) **](https://github.com/EchoOuO/joe-react-portfolio](https://github.com/AI-TECH-LLM-TEAM/ai-tech-tutor): Implenmenting OpenAI API to web application to help job seekers prepare interview quesitons for a developer position. (backend part: https://github.com/AI-TECH-LLM-TEAM/backend-ai-tech-tutor)
 - [** Portfolio Website (React.js) **](https://github.com/EchoOuO/joe-react-portfolio): Showcasing my skills, projects, and more information about me :)
 - [** Portfolio Website (JavaScript / jQuery) **](https://github.com/EchoOuO/Personal-Portfolio-Website)
 
