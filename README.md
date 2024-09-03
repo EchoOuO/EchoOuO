@@ -5,7 +5,7 @@
 I am currently focused on learning and building innovative web applications. 
 
 ### 🛠️ Skills
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, jQuery, React.js, Next.js , Bootstrap, Tailwind CSS
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, jQuery, React.js, Next.js, Angular , Bootstrap, Tailwind CSS
 - **Backend**: PHP, Python, Flask
 - **Databases**: MySQL
 
